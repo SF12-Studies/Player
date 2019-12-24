@@ -1,0 +1,10 @@
+2.0:
+     1.1:
+               -Removed 'Custom' Background Option.
+               -Click 'Volume Icon' to Change Volume.
+               -Made 'Play' Button Thicker.
+               -Added 'Recent File' Option; If user forgets to choose a file they can play the most recent one they've selected.
+               -Updated 'Menu' Look.
+     1.2 :
+               -Updated Volume Button.
+               -Added 'About'.
